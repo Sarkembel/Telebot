@@ -13,7 +13,7 @@ const speed = require('performance-now')
 if (BOT_TOKEN == 'YOUR_TELEGRAM_BOT_TOKEN') {
     return console.log(lang.noToken)
 }
-require("http").createServer((_, res) => res.end("Uptime!")).listen(8080) 
+
 global.api = (name, path = '/', query = {}, apikeyqueryname) => (name in global.APIs ? global.APIs[name] : name) + path + (query || apikeyqueryname ? '?' + new URLSearchParams(Object.entries({
     ...query,
     ...(apikeyqueryname ? {
