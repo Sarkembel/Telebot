@@ -3,12 +3,12 @@ exports.noToken = "Bot token tidak boleh kosong, silahkan buat bot melalui https
 exports.first_chat = (botname, pushname) => {
     return `Halo ${pushname}! Nama saya ${botname} - Saya adalah Bot Telegram multi fungsi! Klik /menu untuk mengetahui lebih lanjut tentang cara menggunakan bot ini.
 
-Bergabunglah dengan [channel saya](https://t.me/zeeone_ofc) untuk mendapatkan informasi tentang semua pembaruan terbaru.
+Bergabunglah dengan [grup telegram saya](https://t.me/+EqAkDpU1GvJlMTZl) untuk mendapatkan informasi tentang semua pembaruan terbaru.
 
 Kirim perintah /privacy untuk melihat syarat dan ketentuan penggunaan bot.
 `
 }
-exports.snk = "Syarat & Ketentuan Bot\n\n1. isi sendiri"
+exports.snk = "Syarat & Ketentuan Bot\n\n1. yang penting jangan spam 😡!"
 exports.getStyle = (style, style2) => {
     return `**${style2} Yg Kamu Masukkan Salah**\n\n__Berikut List ${style2} Yg Benar, Total__ **${style}** __${style2}__\n\n`
 }
