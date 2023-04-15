@@ -11,7 +11,7 @@ global.APIs = {
 //buy apikey premium 0887435047326
 // Free apikey (silahkan login terus ganti Your Key dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'Your Key', // 👉 login https://api.zeeoneofc.my.id to get apikey
+   'https://api.zeeoneofc.my.id': 'nHlJMWQp', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 
 //language 
@@ -19,7 +19,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 global.BOT_TOKEN = "6269271347:AAGgFc1JS4JHtoUR_h7ETll-0dE83szq-nI" //create bot here https://t.me/BotFather and get the bot token
 global.BOT_NAME = "𝙏𝙚𝙡𝙚𝘽𝙤𝙩 𝘼𝙄" //your bot name
-global.OWNER_NAME = "calonn-imann" //your name
+global.OWNER_NAME = "idnadesu javvanese" //your name
 global.OWNER_NUMBER = "6288902848568" //your telegram number
 global.OWNER = ["https://t.me/idnadesu", "https://t.me/idnadesu"] // pastikan username sudah sesuai agar fitur khusus owner bisa di pakai
 global.THUMBNAIL = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
